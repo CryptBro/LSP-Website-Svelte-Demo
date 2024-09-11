@@ -10,14 +10,14 @@
 
 </header>
   
-<body>
+
 
 
  <!-- 2ND Two Column Row -->
  <div class="wrapper-slider hero-slider">
   <div class="column-slider">
     <div class="slider">
-      <img src="/media/logo.svg" alt="Logo" class="" style="max-width: 80%; height: auto;" />
+      <img src="/media/logo.svg" alt="Logo" class="" style="max-width: 60%; height: auto;" />
       <h1>Stunning Virtual Staging + Digital Architecture</h1>
       <button>Order Virtual Staging</button>
       <button>Order 3D Exterior Rendering</button>
@@ -95,7 +95,6 @@
 
 
 
-</body>
 
   
 
@@ -137,7 +136,7 @@ button:hover {
     text-align: center;
     color:white;
     min-height: 650px;
-    word-wrap: break-word;
+    
   }
 
       
@@ -256,45 +255,7 @@ background-color: #1b1b1b;
 
   }
 
-
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #000000;
-      color:#ffffff;
-      
-    }
-    
-    p {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-   
-    font-size: 19px;
-    
-  }
-
-    
-h1 {
-   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    line-height: 60px;
-    font-size:40px;
-  }
-
-
-h2 {
-   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    line-height: 15px;
-    font-size: 35px;
-  }
-
-  h3 {
-   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-   
-    font-size: 30px;
-    color: #fffcfc;
-  }
-
-
+  
    
     .content {
     
@@ -348,45 +309,6 @@ width: 100%; /* Makes the image scale to fit the column */
 
     }
   
-
-    footer {
-      background-color: #333;
-      color: white;
-      text-align: center;
-      padding: 1rem;
-      margin-top: 1rem;
-    }
-
-  nav {
-    background-color: #333;
-    padding: 1rem;
-  }
-  
-  nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center; /* Aligns the nav items to the center */
-  }
-  
-  nav ul li {
-    margin: 0 1rem;
-  }
-  
-  nav ul li a {
-    text-decoration: none;
-    color: white;
-    font-size: 1.1rem;
-    transition: color 0.3s ease;
-  }
-  
-  nav ul li a:hover {
-    color: #f0a500; /* Change color on hover */
-  }
-
-
-
 
 
 

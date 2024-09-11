@@ -13,7 +13,7 @@
  <div class="wrapper-slider hero-slider">
   <div class="column-slider">
     <div class="slider">
-      <img src="/media/logo.svg" alt="Logo" class="" style="max-width: 20%; height: auto;" />
+      <img src="/media/logo.svg" alt="Logo" class="" style="max-width: 60%; height: auto;" />
       <h1>Custom Virtual Staging</h1>
 
     </div>
@@ -277,7 +277,7 @@ button:hover {
     align-content: center;
     text-align: center;
     color:white;
-    min-height: 350px;
+    min-height: 650px;
     word-wrap: break-word;
   }
 

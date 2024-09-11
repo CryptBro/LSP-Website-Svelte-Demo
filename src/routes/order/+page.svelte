@@ -1,3 +1,5 @@
+
+
 <!-- Two Column Row -->
 <div class="wrapper2">
     <div class="two-column">
@@ -93,13 +95,23 @@
   </div>
 
   
-  
+
   
   
   
   
   
   <style>
+ body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #4f4e4e;
+      color:#ffffff;
+      
+    }
+    
+
    .wrapper2 {
     display: flex;
     justify-content: center; /* Center the two-column content horizontally */
@@ -255,9 +267,6 @@
     }
 
 
-  import { fade } from 'svelte/transition';
-
-  let showImage = true; // Controls the visibility of the image
 
 
 
